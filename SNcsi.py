@@ -50,5 +50,5 @@ while True:
         break
     else:
         b = raw_input("The suspect is innocent!\nTry again? (Y/N): ")
-        if b == ("N" or "no" or "No" or "n"):
+        if b == ("N"):
             break
